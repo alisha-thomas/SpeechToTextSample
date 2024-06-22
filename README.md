@@ -9,3 +9,5 @@ Some set of data that can be used to train is found here: https://www.openslr.or
 The examples uses LSTM(Long Short-Term Memory which is a type of recurrent neural network (RNN) designed to learn and remember long-term dependencies in sequential data.
 
 ReLU is used to introduce non-linearity into the network.
+
+speechtotext.ipynb file uses facebook's pretrained Wav2Vec2 model
